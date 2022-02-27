@@ -1,6 +1,6 @@
 ## Overview of contents
 
-Contains keras model as keras_model.h5, python code as medispender.ipynb (Jupyter) / medispenser.py (python), labels for the pictures used in training, as well as training and testing pictures.
+Contains keras model as keras_model.h5, python code as medispender.ipynb (Jupyter) / medispenser.py (python), labels for the subjects used, as well as training and testing pictures.
 
 ## Training and Testing dataset
 
