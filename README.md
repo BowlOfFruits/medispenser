@@ -10,5 +10,5 @@ Our project will be implemented in old folks home, to ease the load of doctors a
 
 ## Model
 
-<img align="left" width="500" height="350" src="https://user-images.githubusercontent.com/98690678/155871431-6fedf564-400b-43d5-b37d-0dcd46db048f.PNG">
+<img align="left" width="600" height="350" src="https://user-images.githubusercontent.com/98690678/155871431-6fedf564-400b-43d5-b37d-0dcd46db048f.PNG">
 
