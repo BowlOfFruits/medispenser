@@ -11,3 +11,11 @@ Our project will be implemented in old folks home, to ease the load of doctors a
 ## Model
 
 ![Capture](https://user-images.githubusercontent.com/98690678/155871451-faada4c8-be97-448b-9116-0b7e01d0b660.PNG)
+
+## Management System
+
+<img align="left" width="350" height="300" src="https://user-images.githubusercontent.com/98690678/155871626-27c7ee04-1322-4977-b7eb-394e3351a06b.PNG">
+<img align="right" width="350" height="300" src="https://user-images.githubusercontent.com/98690678/155871627-217a4f70-90cf-49aa-91ff-2b399ce874dd.PNG">
+<img align="left" width="350" height="300" src="https://user-images.githubusercontent.com/98690678/155871627-217a4f70-90cf-49aa-91ff-2b399ce874dd.PNG">
+<img align="right" width="350" height="300" src="https://user-images.githubusercontent.com/98690678/155871630-1a182b4c-a3dc-4cee-bcae-b2ace3bb49eb.PNG">
+<img align="left" width="350" height="300" src="https://user-images.githubusercontent.com/98690678/155871631-f7c8daa9-5820-4f6d-8ac9-9865bd4772f7.PNG">
