@@ -1,6 +1,6 @@
 # MEDIspenser ![Group_1053](https://user-images.githubusercontent.com/98690678/155866246-e18ea79e-2a23-4ac1-a961-5aeda305315f.png)
 
-<img align="right" width="100" height="100" src="https://user-images.githubusercontent.com/98690678/155866257-b4cb2f2e-a7df-471e-8a05-bfee639366c2.png">
+<img align="left" width="300" height="300" src="https://user-images.githubusercontent.com/98690678/155866257-b4cb2f2e-a7df-471e-8a05-bfee639366c2.png">
 
 Utilising the keras package in python, we've managed to train and create a model that recognises faces, and who that face belongs to! This is the first step to automating medication collection, without the need for a human! 
 
