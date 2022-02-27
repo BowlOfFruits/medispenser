@@ -6,10 +6,6 @@ Utilising the keras package in python, we've managed to train and create a model
 
 Our project will be implemented in old folks home, to ease the load of doctors and nurses incharge. Through user feedback as well as input from larger organisations in this field, it's efficiency can be improved and expanded to other institutions such as major hospitals.
 
-<div style="page-break-after: always; visibility: hidden"> 
-\pagebreak 
-</div>
-
 ## Model
 
 ![Capture](https://user-images.githubusercontent.com/98690678/155871451-faada4c8-be97-448b-9116-0b7e01d0b660.PNG)
