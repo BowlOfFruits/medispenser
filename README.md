@@ -6,8 +6,13 @@ Utilising the keras package in python, we've managed to train and create a model
 
 Our project will be implemented in old folks home, to ease the load of doctors and nurses incharge. Through user feedback as well as input from larger organisations in this field, it's efficiency can be improved and expanded to other institutions such as major hospitals.
 
+
+
+
+
+
 ## Model
 
-<img align="left" width="350" height="320" src="https://user-images.githubusercontent.com/98690678/155871348-7e33bfb6-731f-48e7-a349-d2da675e9b3f.jpg">
+<img align="left" width="500" height="450" src="https://user-images.githubusercontent.com/98690678/155871348-7e33bfb6-731f-48e7-a349-d2da675e9b3f.jpg">
 
 
